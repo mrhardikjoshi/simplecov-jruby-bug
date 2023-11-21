@@ -1,0 +1,29 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/hardik_joshi/work/mckinsey/coverage-test/lib/code.rb": {
+        "lines": [
+          1,
+          6,
+          null,
+          1,
+          0,
+          null,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1700589707
+  }
+}
